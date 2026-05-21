@@ -1,12 +1,12 @@
-<h4 align="left">👋 Olá, meu nome é Vilck Farias!</h4>
+<h4 align="center">👋 Olá, meu nome é Vilck Farias!</h4>
 
 ###
 
-<p align="left">Olá, meu nome é Vilck Farias!<br><br>Desenvolvedor frontend, trabalhando com React e TypeScript.<br>Atualmente estou estudando backend, banco de dados, PostgreSQL e Ruby.<br>Gosto de construir aplicações web e evoluir com projetos práticos.</p>
+<p align="left">Desenvolvedor frontend, trabalhando com React e TypeScript.<br>Atualmente estou estudando backend, banco de dados, PostgreSQL e Ruby.<br>Gosto de construir aplicações web e evoluir com projetos práticos.</p>
 
 ###
 
-<h3 align="left">Minhas Skills</h3>
+<h3 align="center">Minhas Skills</h3>
 
 ###
 

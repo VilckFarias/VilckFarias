@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Desenvolvedor frontend, trabalhando com React e TypeScript.<br>Atualmente estou estudando backend, banco de dados, PostgreSQL e Ruby.<br>Gosto de construir aplicações web e evoluir com projetos práticos.</p>
+<p align="center">Desenvolvedor frontend, trabalhando com React e TypeScript.<br>Atualmente estou estudando backend, banco de dados, PostgreSQL e Ruby.<br>Gosto de construir aplicações web e evoluir com projetos práticos.</p>
 
 ###
 
@@ -39,6 +39,14 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=VilckFarias&locale=pt-br&mode=weekly&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=VilckFarias.VilckFarias&"  />
+</div>
+
+###
 
 ###
 
